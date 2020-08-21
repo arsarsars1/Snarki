@@ -1,5 +1,7 @@
 # snarki
 
+Snarki is a project for restuarnt who allow their user to select food in a most interative way.
+
 A new Flutter application.
 
 ## Getting Started
