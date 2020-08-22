@@ -4,32 +4,39 @@ Snarki is a project for restuarnt who allow their user to select food in a most 
 
 ![](assets/app/img1.jpeg)
 
-(LOGIN)\n/n
+## (LOGIN)
+
 ![](assets/app/img2.jpeg)
 
-(SIGN-UP)
+## (SIGN-UP)
+
 ![](assets/app/img3.jpeg)
 
-(PROFILE)
+## (PROFILE)
+
 ![](assets/app/img4.jpeg)
 
-(FRIENDS)
+## (FRIENDS - OLD UI)
+
 ![](assets/app/img5.jpeg)
 
-(RESULTS)
+## (RESULTS)
+
 ![](assets/app/img6.jpeg)
 
 (MAP)
+
 ![](assets/app/img7.jpeg)
 
-(RESULT - NEW UI)
+## (RESULT - NEW UI)
+
 ![](assets/app/img8.jpeg)
 
-(RESTUAURANT MENU)
+## (RESTUAURANT MENU)
+
 ![](assets/app/img9.jpeg)
 
-
-A new Flutter application.
+For more help you can contact me on arsarsars1@gmail.com.
 
 ## Getting Started
 
